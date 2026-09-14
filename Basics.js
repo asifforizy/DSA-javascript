@@ -14,8 +14,8 @@ console.log("1"+1) // this will give us 11  the number turns into string and the
 
 // type casting or conversion
 
-// let age = Number(prompt("Enter your age : "))
-// console.log("Your age is : " , age)
+let age = Number(prompt("Enter your age : "))
+console.log("Your age is : " , age)
 
 
 // swap 3 variables
